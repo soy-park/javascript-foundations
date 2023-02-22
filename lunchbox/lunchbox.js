@@ -13,8 +13,13 @@ class LunchBox {
     }
 
     findHealthySnacks() {
-      var healthSnacks = [];
-      
+        var healthSnacks = [];
+        for (var i = 0; i < this.snacks.length; i++) {
+            if (this.snacks[i].type.toLowerCase().includes("fruit")) {
+                healthSnacks.push(this.snacks[i].type) 
+            }
+        }
+        return healthSnacks;
     }
 }
 
