@@ -38,6 +38,10 @@ Completing all of these test suites is not necessary, but you should be working 
 
 ### Greatest Hits
 - [ ] 🧚 ‍[Mythical Creatures](./mythical-creatures)
+ direwolf
+ fairy
+ ogre
+ sphinx
 - [ ] 🧶 [Crafting](./crafting)
 - [ ] 🏃🏻‍♀️ [Road Race](./roadrace)
 - [ ] ⛳️ [Golf Course](./golf-course)
